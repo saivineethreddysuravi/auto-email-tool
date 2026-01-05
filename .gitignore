@@ -1,0 +1,10 @@
+# Personal Data
+config.json
+sent_emails.txt
+*.csv
+*.pdf
+
+# Python
+venv/
+__pycache__/
+.DS_Store

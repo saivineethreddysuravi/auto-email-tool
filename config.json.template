@@ -1,0 +1,12 @@
+{
+    "candidate_name": "Your Name",
+    "job_title": "Data Analyst",
+    "phone": "+1 (000) 000-0000",
+    "email": "your.email@example.com",
+    "portfolio_url": "https://yourportfolio.com",
+    "github_url": "https://github.com/yourusername",
+    "linkedin_url": "https://linkedin.com/in/yourusername",
+    "resume_filename": "resume.pdf",
+    "email_subject": "Data Analyst | 4+ Years Experience | SQL, Snowflake & Power BI Expert",
+    "delay_seconds": 5
+}
