@@ -1,6 +1,7 @@
 # Personal Data
 config.json
 sent_emails.txt
+followed_up.txt
 *.csv
 *.pdf
 

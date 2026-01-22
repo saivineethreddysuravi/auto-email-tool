@@ -33,8 +33,7 @@ def get_body(config, greeting):
 
 I hope you’re doing well. I’m reaching out to explore {config['job_title']} opportunities within your team or current client openings.
 
-I have 4+ years of professional experience working across finance, payroll, and workforce analytics, with hands-on expertise in SQL, Snowflake, Power BI (DAX), Python, and Excel. I’ve built end-to-end dashboards, automated reporting workflows, and supported leadership teams with clear, decision-ready insights.
-
+    I have 5+ years of professional experience working across finance, payroll, and workforce analytics, with hands-on expertise in SQL, Snowflake, Power BI (DAX), Python, and Excel. I’ve built end-to-end dashboards, automated reporting workflows, and supported leadership teams with clear, decision-ready insights.
 Most recently, I’ve been working on Power BI and Snowflake-based reporting solutions, owning data extraction, modeling, DAX development, and dashboard delivery. I’m actively seeking {config['job_title']} roles where I can contribute immediately.
 
 I’ve included my resume and links below for quick reference:
